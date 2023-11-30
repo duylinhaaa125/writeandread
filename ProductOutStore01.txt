@@ -1,0 +1,10 @@
+1|Apple|MacBookPro|2017|256G|1|Silver|Discount|Store01
+2|Apple|MacBookPro|2017|256G|2|Silver|Discount|Store01
+3|Apple|MacBookPro|2017|256G|3|Silver|Discount|Store01
+4|Apple|MacBookPro|2017|256G|4|Silver|Discount|Store01
+5|Apple|MacBookPro|2017|256G|5|Silver|Discount|Store01
+6|Apple|MacBookPro|2017|256G|6|Silver|Discount|Store01
+7|Apple|MacBookPro|2017|256G|7|Silver|Discount|Store01
+8|Apple|MacBookPro|2017|256G|8|Silver|Discount|Store01
+9|Apple|MacBookPro|2017|256G|9|Silver|Discount|Store01
+10|Apple|MacBookPro|2017|256G|10|Silver|Discount|Store01
